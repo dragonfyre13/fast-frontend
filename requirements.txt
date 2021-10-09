@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+# For scraping purposes
+# requests-html
+# Not sure if this runs async
+# records
+# Consider this maybe?
+# tortoise-orm
